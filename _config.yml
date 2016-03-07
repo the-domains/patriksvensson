@@ -1,0 +1,28 @@
+name: PatrikSvensson
+favicon: null
+layout_spectrum: 0.47210216452367604
+typography_spectrum: 0.7231755228713155
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7093032810371369
+  lightness: 0.04960154346190393
+  saturation: 0.3752907421439886
+  rhythmicContrast: 0.686486290069297
+purpose: []
