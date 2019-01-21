@@ -1,29 +1,39 @@
 name: Patrik Svensson
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.7231755228713155
-title: Patrik Svenssson
+analytics: {}
+purpose: []
+github: true
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content: []
+layout_spectrum: 1
 color:
+  lightness: 0.8930705
   brandColors:
     - '#a99e9c'
     - '#d5cbc9'
     - '#3f383f'
     - '#1d181f'
     - '#8d524a'
+  saturation: 0
   brandStrength: 0.25
-  lightness: 0.625
-  saturation: 0.25
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 0.635006
+content_rating:
+  adult: false
+typography_spectrum: 0.7231755228713155
+opengraph: {}
+title: Patrik Svenssson
